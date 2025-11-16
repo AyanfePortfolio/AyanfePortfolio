@@ -10,7 +10,7 @@ I’m a Data Analyst with a foundation in Finance, focused on turning data into 
 ## Featured Projects
 - [Superstore Sales Performance] (https://github.com/AyanfePortfolio/Superstore-Sales-Performance)
 - [Buying Behaviour of Nigerians 2025] (https://github.com/AyanfePortfolio/Buying-Behavior-of-Nigerians-2025-Report-)
-- [Retail Sales and Profit Performance] (.............) 
+- [Adidas Retail Sales and Profit Performance] (.............) 
 
 ## Currently Learning
 - SQL
