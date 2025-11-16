@@ -8,7 +8,7 @@ I’m a Data Analyst with a foundation in Finance, focused on turning data into 
 - Google Sheets
 
 ## Featured Projects
-- [Superstore Sales Performance] (..........)
+- [Superstore Sales Performance] (https://github.com/AyanfePortfolio/Superstore-Sales-Performance)
 - [Buying Behaviour of Nigerians 2025] (............)
 - [Retail Sales and Profit Performance] (.............) 
 
