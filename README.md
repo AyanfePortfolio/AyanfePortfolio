@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Ayanfe!
 
-<!--
-**AyanfePortfolio/AyanfePortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with a background in Finance, now building impactful projects in Excel, SQL and PowerBI 
 
-Here are some ideas to get you started:
+## Tools I work with 
+- Microsoft Excel
+- Microsoft PowerPoint
+- Google Sheets
+- SQL
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## My Projects
+- [Sales Performance Dashboard] (..........)
+
+- ## Currently Learning
+- Advanced SQL
+- Advanced PowerBI
