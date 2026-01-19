@@ -12,7 +12,8 @@ I’m a Data Analyst passionate about turning data into clear insights using var
 ## Featured Projects
 - [Superstore Sales Performance] (https://github.com/AyanfePortfolio/Superstore-Sales-Performance)
 - [Buying Behaviour of Nigerians 2025] (https://github.com/AyanfePortfolio/Buying-Behavior-of-Nigerians-2025-Report-)
-- [Adidas Retail Sales and Profit Performance] (https://github.com/AyanfePortfolio/Adidas-Retail-Sales-and-Profit-Performance-) 
+- [Adidas Retail Sales and Profit Performance] (https://github.com/AyanfePortfolio/Adidas-Retail-Sales-and-Profit-Performance-)
+- [SQL Forensic Investigation] (https://github.com/AyanfePortfolio/Solving-the-Murder-of-Roland-Greene-)
 
 ## Currently Learning
 - Advanced SQL
