@@ -15,6 +15,7 @@ I’m a Data Analyst passionate about turning data into clear insights using var
 - [Adidas Retail Sales and Profit Performance] (https://github.com/AyanfePortfolio/Adidas-Retail-Sales-and-Profit-Performance-)
 - [SQL Forensic Investigation] (https://github.com/AyanfePortfolio/Solving-the-Murder-of-Roland-Greene-)
 - [Student-Management-System-SQL] (https://github.com/AyanfePortfolio/Student-Management-System-SMS-Database)
+- [Sales Performance Analysis] (https://github.com/AyanfePortfolio/Sales-Performance-Dashboard---Power-BI-Project/blob/main/README.md)
 
 ## Currently Learning
 - Advanced SQL
